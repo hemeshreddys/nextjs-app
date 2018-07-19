@@ -3,21 +3,24 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage" : "http://hemeshreddys.github.io/nextjs_app",
+  "homepage": "http://hemeshreddys.github.io/nextjs_app",
   "scripts": {
     "dev": "next",
     "build": "next build",
     "start": "next start",
-    "predeploy": "npm run build", 
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "add": "^2.0.6",
+    "gh-pages": "^1.2.0",
     "isomorphic-unfetch": "^2.0.0",
     "next": "^6.1.1",
     "react": "^16.4.1",
-    "react-dom": "^16.4.1"
+    "react-dom": "^16.4.1",
+    "yarn": "^1.7.0"
   }
 }
