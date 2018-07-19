@@ -1,9 +1,9 @@
 {
-  "name": "nextjs_app",
+  "name": "nextjsapp",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "http://hemeshreddys.github.io/nextjs_app",
+  "homepage": "http://hemeshreddys.github.io/nextjsapp",
   "scripts": {
     "dev": "next",
     "build": "next build",
